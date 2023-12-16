@@ -2,6 +2,10 @@
 
 ## Usage
 
+### Preqrequisite
+
+First, follow the setup for: https://github.com/marvinh-csun/assignment_2_Fall2023
+
 ### Backend
 
 To run locally:
